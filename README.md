@@ -24,7 +24,7 @@ This **Power BI Dashboard** provides a detailed analysis of superstore sales, re
 
 ## 📸 Dashboard Preview  
 
-![Super Store dashboard](Superstore%20dashboard.jpg)  
+![Super Store dashboard](super%20store%20dashboard.jpg)  
 
 ---
 
